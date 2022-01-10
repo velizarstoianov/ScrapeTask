@@ -1,0 +1,17 @@
+2022-01-10 19:09:37,442 INFO utils Element  successfuly scraped
+2022-01-10 19:09:37,444 DEBUG selenium.webdriver.remote.remote_connection DELETE http://localhost:51243/session/75b201846ffa029fe36d818240759276 {}
+2022-01-10 19:09:37,598 DEBUG urllib3.connectionpool http://localhost:51243 "DELETE /session/75b201846ffa029fe36d818240759276 HTTP/1.1" 200 14
+2022-01-10 19:09:37,599 DEBUG selenium.webdriver.remote.remote_connection Finished Request
+2022-01-10 19:10:50,012 INFO utils Element  successfuly scraped
+2022-01-10 19:10:50,014 DEBUG selenium.webdriver.remote.remote_connection DELETE http://localhost:51324/session/b228cd66e5b9b402a9a3a86e4b2d9c97 {}
+2022-01-10 19:10:50,997 DEBUG urllib3.connectionpool http://localhost:51324 "DELETE /session/b228cd66e5b9b402a9a3a86e4b2d9c97 HTTP/1.1" 200 14
+2022-01-10 19:10:50,998 DEBUG selenium.webdriver.remote.remote_connection Finished Request
+2022-01-10 20:15:57,461 INFO utils Element  successfuly scraped
+2022-01-10 20:15:57,462 DEBUG selenium.webdriver.remote.remote_connection DELETE http://localhost:49265/session/cd64860f0afc568aaf9593c7e18c7d95 {}
+2022-01-10 20:15:57,640 DEBUG urllib3.connectionpool http://localhost:49265 "DELETE /session/cd64860f0afc568aaf9593c7e18c7d95 HTTP/1.1" 200 14
+2022-01-10 20:15:57,640 DEBUG selenium.webdriver.remote.remote_connection Finished Request
+2022-01-10 20:22:59,566 INFO utils Element  successfuly scraped
+2022-01-10 20:22:59,566 DEBUG selenium.webdriver.remote.remote_connection DELETE http://localhost:64462/session/6f06239ef925f46debb3bde2fa5a8f0d {}
+2022-01-10 20:22:59,732 DEBUG urllib3.connectionpool http://localhost:64462 "DELETE /session/6f06239ef925f46debb3bde2fa5a8f0d HTTP/1.1" 200 14
+2022-01-10 20:22:59,733 DEBUG selenium.webdriver.remote.remote_connection Finished Request
+2022-01-10 20:23:42,759 ERROR utils No config file present at :C:\Users\velizar.stoyanov\Desktop\projects\python\Scrape\Task\.config/config.cfg
